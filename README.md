@@ -61,7 +61,7 @@ The 8 bytes of data can now be called up.
 
   The bytes read in can now be processed as shown below
 
-    +----------------------+
+    +------------------+
     | Byte 0: 00011000 |
     | Byte 1: 10010011 |
     | Byte 2: 10101100 |
@@ -69,7 +69,7 @@ The 8 bytes of data can now be called up.
     | Byte 4: 00101010 |
     | Byte 5: 11000101 |
     | Byte 6: 10110011 |
-    +----------------------+
+    +------------------+
     
         
     +----------------------------+----------------------------+
