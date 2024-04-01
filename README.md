@@ -18,6 +18,7 @@
  -   Read temperature / humidity from AHT20
  -    Read temperature / pressure from BMP280
  - No long loop times when reading the AHT20
+ - Non blocking
  - Simple and clearly written
  - So that even beginners (like me) can understand how it works 
  
