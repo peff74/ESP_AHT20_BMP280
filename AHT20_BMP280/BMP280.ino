@@ -232,7 +232,8 @@ void readPressureBMP280() {
 
   p = ((p + var1 + var2) >> 8) + (((int64_t)_dig_P7) << 4);
 
-  pressure = p / 25600;
+  pressure = p / 256;
+  pressure = pressure / 100;
 }
 
 
